@@ -1,28 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>http://www.nedunalvaalai.in.net/sirumalai-banana</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-08-14</lastmod>
-</url>
-<url>
-  <loc>http://www.nedunalvaalai.in.net/dindigul-fruits</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-08-14</lastmod>
-</url>
-<url>
-  <loc>http://www.nedunalvaalai.in.net/products</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-08-14</lastmod>
-</url>
-<url>
-  <loc>http://www.nedunalvaalai.in.net/about</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-08-14</lastmod>
-</url>
-<url>
-  <loc>http://www.nedunalvaalai.in.net/Click-</loc>
-  <changefreq>always</changefreq>
-  <lastmod>2025-08-14</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.nedunalvaalai.in.net/sirumalai-banana</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nedunalvaalai.in.net/dindigul-fruits</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.nedunalvaalai.in.net/products</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nedunalvaalai.in.net/about</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.nedunalvaalai.in.net/click-banana</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
